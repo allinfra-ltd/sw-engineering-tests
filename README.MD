@@ -6,7 +6,8 @@ This coding challenge is an opportunity to demonstrate proficiency in the proble
 
 ## Expectations
 
-Select one of the team specific challenges and create a new git repository for that project. Organize your code within that repo -- when you get to a stopping point, commit and push your code and email a link to your repo to the hiring manager.
+Select one of the challenges specific to your specialization and create a new git repository for that project. \
+Organize your code within that repo -> when you get to a stopping point, commit and push your code and email a link to your repo at careers@allinfra.com.
 
 | Challenge type | Inclination | Specialization | Stack | Access challenge
 |--|--|--|--|--
@@ -16,7 +17,7 @@ Select one of the team specific challenges and create a new git repository for t
 | 🎤 &nbsp; Live assignment| ☯️ &nbsp; Full-stack| [🌐 &nbsp; Web development](/web-development/) | Typescript or Javascript | [Challenge →](/web-development/full-stack-challenges/mid-full-stack-challenge/mid-full-stack-challenge.live.md)
 | 🏠 &nbsp; Home assignment| ☯️ &nbsp; Full-stack| [🌐 &nbsp; Web development](/web-development/) | Typescript or Javascript | [Challenge →](/web-development/full-stack-challenges/mid-full-stack-challenge/mid-full-stack-challenge-extra.md)
 | 🎤 &nbsp;/&nbsp; 🏠 &nbsp;  Home or Live assignment| 💅 &nbsp; Front-end| [🌐 &nbsp; Web development](/web-development/) | Web Fundamentals, Typescript, React | [Challenge →](/web-development/front-end-challenges/mid-front-end-challenge.md)
-| 🎤 &nbsp;/&nbsp; 🏠 &nbsp;  Home or Live assignment| 👾 ☯️&nbsp; Blockchain | [📦 &nbsp; Blockchain](/blockchain-development/) | Web Fundamentals, Typescript, React | [Challenge →](/blockchain-development/blockchain-challenge.md)
+| 🎤 &nbsp;/&nbsp; 🏠 &nbsp;  Home or Live assignment| 👾 ☯️&nbsp; Blockchain | [📦 &nbsp; Blockchain](/blockchain-development/) | Ethereum blockchain, Web Fundamentals, TS | [Challenge →](/blockchain-development/blockchain-challenge.md)
 
 
 

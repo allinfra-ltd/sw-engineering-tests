@@ -16,9 +16,9 @@ ShortLink is a URL shortening application where you enter a URL such as https://
         - /decode - Decodes a shortened URL to its original URL.
         - /urls - Returns the list of shortened URLs
     - Both endpoints should return JSON
-- There is no restriction on how your encode/decode algorithm should work. You just need to make sure that a URL can be encoded to a short URL and the short URL can be decoded to the original URL.
-- Persist short URLs to a database.
-- Provide API tests for both endpoints
+    - There is no restriction on how your encode/decode algorithm should work. You just need to make sure that a URL can be encoded to a short URL and the short URL can be decoded to the original URL.
+    - Persist short URLs to a database.
+    - Provide API tests for both endpoints
 
 - Implement frontend assignment using:
     - Language: **JS/TS**
@@ -26,7 +26,7 @@ ShortLink is a URL shortening application where you enter a URL such as https://
     - should be able to submit the long url and display the shortened url
     - should be able to visit or copy the shortened url
     - should be able to type in the encoded url and get the decoded one
-    - should be able to see encoded urls
+    - should be able to see a list of encoded urls
 
 ### Evaluation Criteria
 

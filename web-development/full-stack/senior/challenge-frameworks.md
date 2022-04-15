@@ -1,6 +1,6 @@
 ### Objective
 
-Your assignment is to implement a URL shortening service using Node and any framework.
+Your assignment is to implement a URL shortening application using Node and any framework.
 
 ### Brief
 
